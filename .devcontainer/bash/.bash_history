@@ -115,3 +115,26 @@ git status
 git stua
 git status
 echo /bin/bash
+git add .
+git stauts
+git status
+git commit -m "£"
+git push
+git status
+git add .
+git commit -m "£"
+git push
+git status
+git status
+git status
+echo cicciogamer89
+echo cicciogamer89
+echo cicciogamer89 è un boss
+ciccio = "cicciogamer89 è un boss"
+ciccio = "cicciogamer89 è un boss";
+echo #ciccio
+echo #ciccio
+echo #ciccio
+echo #ciccio
+echo #ciccio
+ciccio = cicciogamer89 è un boss;
