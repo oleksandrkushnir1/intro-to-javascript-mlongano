@@ -138,3 +138,9 @@ echo #ciccio
 echo #ciccio
 echo #ciccio
 ciccio = cicciogamer89 è un boss;
+git status
+git add .
+git commit -m "-"
+git push
+git status
+git status
