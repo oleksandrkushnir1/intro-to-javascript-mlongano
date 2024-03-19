@@ -150,3 +150,10 @@ git push
 git status
 git status
 git status
+git status
+git add .
+git commit -m "-"
+git push
+git stuuts
+git stutus
+git status
